@@ -2,6 +2,11 @@
 
 Essa é uma aplicação API REST desenvolvida em Go utilizando o framework Gin para realizar operações CRUD na tabela de livros.
 
+
+## Estrutura do Aplicação foi utilizado Clean Code
+![Captura de tela do jogo](images/portandadapter.jpeg)
+
+
 ## Endpoints
 
 ### GET /books
@@ -66,6 +71,6 @@ Exclui um livro existente pelo ID.
 
 ## Instalação e execução
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/projeto-exemplo.git`.
+1. Clone o repositório: `git clone https://github.com/alunogabrielgava123/book-go-rest.git`.
 2. Navegue até a pasta raiz do projeto e execute `go run main.go`.
 3. Acesse a API em `http://localhost:8080`.
